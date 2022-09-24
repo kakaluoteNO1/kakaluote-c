@@ -1,7 +1,1 @@
-﻿已启动生成...
-1>------ 已启动生成: 项目: c.kakaluote, 配置: Debug x64 ------
-1>c.kakaluote.cpp
-1>E:\新建文件夹\c.kakaluote\c.kakaluote.cpp(10,18): warning C4305: “=”: 从“double”到“float”截断
-1>c.kakaluote.vcxproj -> E:\新建文件夹\c.kakaluote\x64\Debug\c.kakaluote.exe
-1>已完成生成项目“c.kakaluote.vcxproj”的操作。
-========== “生成”: 1 成功，0 失败，0 更新，0 已跳过 ==========
+
